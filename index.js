@@ -1,7 +1,5 @@
-const express = require("express") 
-const app = express()
+const app = require("./api/server")
 
-app.use(express.static("website"))
 
 const PORT = process.env.PORT || 8000
 app.listen(PORT)

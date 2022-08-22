@@ -13,7 +13,7 @@ html {
 
 body {
   margin: 0;
-  background: url("../../assets/kanban-board-bg.jpg");
+  background: url("./kanban-board-bg.jpg");
   background-size: cover;
   background-position: 50% 60%;
   background-attachment: fixed;
